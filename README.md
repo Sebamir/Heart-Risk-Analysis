@@ -71,5 +71,5 @@ Hypertension and elevated pulse pressure showed strong association with cardiova
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/your_repo.git
+git clone https://github.com/Sebamir/Heart-Risk-Analysis
 cd your_repo

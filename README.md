@@ -16,6 +16,8 @@ The primary goal is to understand how features such as blood pressure, cholester
 - `data/`: dataset files or links to data sources
 - `notebooks/`: step-by-step pipeline of the project
 - `requirements.txt`: project dependencies
+- `Informe`: Pdf Report
+- `Presentation`: Power Bi presentation
 
 ---
 
